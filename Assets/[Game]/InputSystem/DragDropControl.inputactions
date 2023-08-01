@@ -1,0 +1,34 @@
+{
+    "name": "DragDropControl",
+    "maps": [
+        {
+            "name": "MainMap",
+            "id": "ed57e2fe-868a-4349-b381-871300e99013",
+            "actions": [
+                {
+                    "name": "Drag&Drop",
+                    "type": "Button",
+                    "id": "44920a10-985a-409c-885c-384207ce821d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9bfea6dc-a04b-4d91-9460-627419aa9077",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "Hold(duration=0.5,pressPoint=0.5)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Drag&Drop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

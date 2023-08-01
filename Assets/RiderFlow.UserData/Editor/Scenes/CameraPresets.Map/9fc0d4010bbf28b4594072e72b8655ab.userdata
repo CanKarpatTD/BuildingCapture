@@ -1,0 +1,15 @@
+{
+  "b1fbf001daaf99e4ebdcaad5db841c08": {
+    "sceneGuid": "9fc0d4010bbf28b4594072e72b8655ab",
+    "uniqueCameraId": "b1fbf001daaf99e4ebdcaad5db841c08",
+    "name": "TestPreset",
+    "pointX": -4.522536,
+    "pointY": 14.2573195,
+    "pointZ": -21.1288242,
+    "directionX": 0.330663,
+    "directionY": 0.162267685,
+    "directionZ": -0.0578625,
+    "directionW": 0.9279803,
+    "zoom": 16.639143
+  }
+}
